@@ -1,4 +1,4 @@
 @mixin shadow($elevation) {
 $shadow: bottom-shadow($elevation), top-shadow($elevation);
-$blur: $elevation;
+
 }
